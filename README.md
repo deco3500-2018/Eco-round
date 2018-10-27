@@ -29,8 +29,11 @@ Our group as Eco-round are exploring the domain of sexual harassment. We are sta
  ![pulse sensor](https://user-images.githubusercontent.com/42561134/47600231-48713000-da01-11e8-99ed-3bacd8b658a9.PNG)
  
  For connecting it to Arduino board:
+ 
  "S" on pulse sensor connect to "A0" on Arduino;
+ 
  "+" on pulse sensor connect to "5V" on Arduino;
+ 
  "-" on pulse sensor connect to "GND" on Arduino.
  
  ![heartbeat](https://user-images.githubusercontent.com/42561134/47600253-97b76080-da01-11e8-81d6-c78e984be1b1.PNG)
@@ -41,9 +44,13 @@ Our group as Eco-round are exploring the domain of sexual harassment. We are sta
  ![vib1](https://user-images.githubusercontent.com/42561134/47600276-0eecf480-da02-11e8-8543-f5d275c0af57.PNG)
  
  For connecting it to Arduino board:
+ 
  Connect Vin to the power supply with 5V;
+ 
  Connect GND to power ground;
+ 
  Connect the SCL pin to A5;
+ 
  Connect the SDA pin to A4;
  
  ![vib2](https://user-images.githubusercontent.com/42561134/47600277-0f858b00-da02-11e8-852f-a8ae75b4fffd.PNG)
