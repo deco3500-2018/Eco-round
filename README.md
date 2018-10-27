@@ -38,6 +38,8 @@ Our group as Eco-round are exploring the domain of sexual harassment. We are sta
  
  ![heartbeat](https://user-images.githubusercontent.com/42561134/47600253-97b76080-da01-11e8-81d6-c78e984be1b1.PNG)
  
+ Demonstration video link: https://www.youtube.com/watch?v=LdNGqE3xEb4
+ 
 2. Vibration deployment
  We implemented this function by using the DRV2605L motor driver, which includes 117 basic pre-coded vibration modes. The following     image is the driver that we use.
  
@@ -55,3 +57,4 @@ Our group as Eco-round are exploring the domain of sexual harassment. We are sta
  
  ![vib2](https://user-images.githubusercontent.com/42561134/47600277-0f858b00-da02-11e8-852f-a8ae75b4fffd.PNG)
  
+ Demonstration video link:
