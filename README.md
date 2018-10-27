@@ -9,7 +9,7 @@ Our group as Eco-round are exploring the domain of sexual harassment. We are sta
 
 ## Table of Content
 * Eco-round
- * [Home] (https://github.com/deco3500-2018/Eco-round/wiki)
+ * [Home](https://github.com/deco3500-2018/Eco-round/wiki)
  * [Project Proposal] (https://github.com/deco3500-2018/Eco-round/wiki/Proposal)
  * [Design Process Overview] (https://github.com/deco3500-2018/Eco-round/wiki/Design-Process-Overview)
  * [Poster & Promotional materials] (https://github.com/deco3500-2018/Eco-round/wiki/Poster-&-Promotional-Materials)
